@@ -1,0 +1,1 @@
+g++ Machine.cpp BaseSlotMachine.cpp WeighedRandom.cpp LeverBalancer.cpp
