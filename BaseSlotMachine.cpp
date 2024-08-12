@@ -25,7 +25,7 @@ BaseSlotMachine::BaseSlotMachine(int numberOfLinesInWinTable, int numberOfColumn
     
     
     BaseSlotMachine::winTable = winTable;
-    RETURN_RATE = 0.9;
+    RETURN_RATE = 0.99;
     HIT = 0.2;
     PROB_OF_LOSS=1-HIT;
     
